@@ -9,6 +9,9 @@
 
 ## Tecnologias
 - Power BI
+- Arquivo Excel - Dados
+- [Dados.xlsx](https://github.com/user-attachments/files/30027466/Dados.xlsx)
+
 
 
 ## 👨‍💻 Autor
