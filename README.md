@@ -6,3 +6,7 @@ Gráficos do tipo colunas clustorizadas
 Gráficos do tipo barras clustorizadas
 Gráficos do tipo pizza
 Gráficos do tipo linhas
+
+## Tecnologias
+- Power BI
+
