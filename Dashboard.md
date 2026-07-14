@@ -8,3 +8,4 @@ O arquivo `Projeto_BI.pbix` contém todo o desenvolvimento do dashboard, incluin
 - Segmentações, filtros e indicadores para facilitar a tomada de decisão.
 
 > **Observação:** Para visualizar e editar o projeto é necessário ter o **Microsoft Power BI Desktop** instalado.
+Projeto_BI.pbix
