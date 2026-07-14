@@ -10,3 +10,7 @@
 ## Tecnologias
 - Power BI
 
+
+## 👨‍💻 Autor
+
+Filipe Siqueira
